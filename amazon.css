@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+
+}
+
+html,body{
+    width: 100%;
+}
+section{
+    position: relative;
+}
+
+body{
+    background-color:white;
+}
+.head{
+    justify-content: space-between;
+}
+.first{
+    display: flex;
+}
+
+.first{
+    background-color: rgb(10, 10, 10);
+    justify-content: space-around;
+}
+.first h5{
+    color: white;
+}
+img{
+    width: 100px;
+    height: 60px;
+    margin: 8px;
+}
+.first i{
+    color: white;
+    
+}
+.main i{
+   font-size:20px;
+   margin-top: 20px;
+}
+.first p{
+    color: white;
+}
+.nine{
+  margin-top: 50px;
+}
+input[type="search"]{
+    margin: 10px;
+    width: 600px;
+    height: 50px;
+    border-radius: 2px;
+}
+
+.ten{
+    position: absolute;
+    right: 445px;
+    top: 10px;
+    width: 43px;
+    height: 47px;
+    background-color: yellow;
+    border-radius:2px ;
+    
+}
+.ten i{
+    font-size: 30px;
+    margin: 10px;
+}
+.flag{
+    display: flex;
+}
+
+.flag img{
+    width: 50px;
+    height: 30px;
+    margin-top: 25px;
+}
+
+.flag h3{
+    color: white;
+    margin-top: 25px;
+}
+
+.flag i{
+    margin-top:27px;
+}
+
+.letter{
+    color: white;
+    margin-top: 15px;
+}
+.last{
+    margin-top: 15px;
+}
+.last1{
+    display: flex;
+}
+.last1 h3{
+    color: white;
+    margin-top: 20px;
+}
+.last1 i{
+     color: white;
+     font-size: 30px;
+     margin-top: 20px;
+}
+
+.lll{
+    margin-top: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.one{
+    background-color: rgba(10, 10, 10, 0.822);
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+}
+
+.one i{
+   color: white;
+}
